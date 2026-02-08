@@ -59,6 +59,8 @@ The analysis follows these main steps:
 ---
 
 ## Project Structure
+
+```
 portfolio-diversification-project/
 │
 ├── notebooks/
@@ -68,7 +70,7 @@ portfolio-diversification-project/
 │   └── (optional saved datasets)
 │
 └── README.md
-
+```
 ---
 
 ## Author
