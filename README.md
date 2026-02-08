@@ -62,13 +62,12 @@ The analysis follows these main steps:
 
 ```
 portfolio-diversification-project/
-│
 ├── notebooks/
 │   └── portfolio_diversification.ipynb
-│
 ├── data/
-│   └── (optional saved datasets)
-│
+│   ├── prices_aligned.csv
+│   └── returns.csv
+├── .gitignore
 └── README.md
 ```
 ---
